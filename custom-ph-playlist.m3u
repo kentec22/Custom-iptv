@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CustomYouTubeLive" tvg-name="Custom YouTube Live" tvg-logo="" group-title="YouTube",Custom YouTube Live
+https://www.youtube.com/live/RzQl5AaODn0?si=p7ePdJD-E21B8LgH
+
+#EXTINF:-1 tvg-id="PTV.ph" tvg-name="PTV" tvg-logo="" group-title="Philippines",https://stream-ptv.ph/live.m3u8
+#EXTINF:-1 tvg-id="CNNPhilippines.ph" tvg-name="CNN Philippines" tvg-logo="" group-title="Philippines",https://stream-cnnph.ph/live.m3u8
+#EXTINF:-1 tvg-id="IBC13.ph" tvg-name="IBC 13" tvg-logo="" group-title="Philippines",https://stream-ibc13.ph/live.m3u8
